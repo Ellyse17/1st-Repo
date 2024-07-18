@@ -1,2 +1,3 @@
 # 1st-Repo
-my first git hub pgr
+my first git hub program 
+in faltu
